@@ -84,7 +84,7 @@ LIST_SAMPLE="<path/to/ListSample.txt>"
 BAM_DIR="<path/to/bam_files>"
 ```
 
-Note that the input samples were pre-processed using [`pmd-mask`](https://github.com/MaelLefeuvre/pmd-mask).
+Note that the input samples were pre-processed using [#[PLACEHOLDER]`pmd-mask`](https://github.com/xxxxxxxx/pmd-mask).
 
 ```bash
 for SAMPLE in $(cat "$LIST_SAMPLE"); do 
