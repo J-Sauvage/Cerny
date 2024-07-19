@@ -1,0 +1,20 @@
+# This file is read by the ./05-pileup.sh bash script to exclude samples when generating a list of bamfiles.
+# (05-pileup.sh internally uses grep -F with PCRE-mode activate)
+# This file accepts comments, as long as lines **starts** with a '#' character
+# ---- Cerny samples
+VLG101
+BAL20A
+# ---- Rivollat Samples
+FLR012
+GRG104
+GRG100
+GRG093
+GRG092
+GRG099
+GRG110
+GRG098
+GRG106
+GRG105
+GRG082
+GRG083
+GRG040

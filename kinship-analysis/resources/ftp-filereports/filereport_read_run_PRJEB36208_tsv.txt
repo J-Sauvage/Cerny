@@ -1,0 +1,23 @@
+study_accession	sample_accession	experiment_accession	run_accession	tax_id	scientific_name	fastq_ftp	submitted_ftp	sra_ftp	bam_ftp
+PRJEB36208	SAMEA6474371	ERX3815118	ERR3813763	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/fastq/ERR381/003/ERR3813763/ERR3813763.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR381/ERR3813763/GRG003.bam		
+PRJEB36208	SAMEA6474372	ERX3815119	ERR3813764	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/fastq/ERR381/004/ERR3813764/ERR3813764.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR381/ERR3813764/GRG008.bam		
+PRJEB36208	SAMEA6474374	ERX3815121	ERR3813766	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/fastq/ERR381/006/ERR3813766/ERR3813766.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR381/ERR3813766/GRG016.bam		
+PRJEB36208	SAMEA6474375	ERX3815122	ERR3813767	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/fastq/ERR381/007/ERR3813767/ERR3813767.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR381/ERR3813767/GRG018.bam		
+PRJEB36208	SAMEA6474377	ERX3815124	ERR3813769	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/fastq/ERR381/009/ERR3813769/ERR3813769.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR381/ERR3813769/GRG021.bam		
+PRJEB36208	SAMEA6474379	ERX3815126	ERR3813771	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/fastq/ERR381/001/ERR3813771/ERR3813771.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR381/ERR3813771/GRG023.bam		
+PRJEB36208	SAMEA6474382	ERX3815129	ERR3813774	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/fastq/ERR381/004/ERR3813774/ERR3813774.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR381/ERR3813774/GRG028.bam		
+PRJEB36208	SAMEA6474389	ERX3815136	ERR3813781	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/fastq/ERR381/001/ERR3813781/ERR3813781.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR381/ERR3813781/GRG050.bam		
+PRJEB36208	SAMEA6474376	ERX3815123	ERR3813768	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/fastq/ERR381/008/ERR3813768/ERR3813768.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR381/ERR3813768/GRG019.bam		
+PRJEB36208	SAMEA6474381	ERX3815128	ERR3813773	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/fastq/ERR381/003/ERR3813773/ERR3813773.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR381/ERR3813773/GRG027.bam		
+PRJEB36208	SAMEA6474384	ERX3815131	ERR3813776	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/fastq/ERR381/006/ERR3813776/ERR3813776.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR381/ERR3813776/GRG035.bam		
+PRJEB36208	SAMEA6474388	ERX3815135	ERR3813780	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/fastq/ERR381/000/ERR3813780/ERR3813780.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR381/ERR3813780/GRG049.bam		
+PRJEB36208	SAMEA6474391	ERX3815138	ERR3813783	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/fastq/ERR381/003/ERR3813783/ERR3813783.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR381/ERR3813783/GRG056.bam		
+PRJEB36208	SAMEA6474392	ERX3815139	ERR3813784	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/fastq/ERR381/004/ERR3813784/ERR3813784.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR381/ERR3813784/GRG057.bam		
+PRJEB36208	SAMEA6474373	ERX3815120	ERR3813765	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/fastq/ERR381/005/ERR3813765/ERR3813765.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR381/ERR3813765/GRG015.bam		
+PRJEB36208	SAMEA6474378	ERX3815125	ERR3813770	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/fastq/ERR381/000/ERR3813770/ERR3813770.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR381/ERR3813770/GRG022.bam		
+PRJEB36208	SAMEA6474380	ERX3815127	ERR3813772	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/fastq/ERR381/002/ERR3813772/ERR3813772.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR381/ERR3813772/GRG025.bam		
+PRJEB36208	SAMEA6474383	ERX3815130	ERR3813775	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/fastq/ERR381/005/ERR3813775/ERR3813775.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR381/ERR3813775/GRG032.bam		
+PRJEB36208	SAMEA6474385	ERX3815132	ERR3813777	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/fastq/ERR381/007/ERR3813777/ERR3813777.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR381/ERR3813777/GRG041.bam		
+PRJEB36208	SAMEA6474386	ERX3815133	ERR3813778	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/fastq/ERR381/008/ERR3813778/ERR3813778.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR381/ERR3813778/GRG043.bam		
+PRJEB36208	SAMEA6474387	ERX3815134	ERR3813779	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/fastq/ERR381/009/ERR3813779/ERR3813779.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR381/ERR3813779/GRG047.bam		
+PRJEB36208	SAMEA6474390	ERX3815137	ERR3813782	9606	Homo sapiens	ftp.sra.ebi.ac.uk/vol1/fastq/ERR381/002/ERR3813782/ERR3813782.fastq.gz	ftp.sra.ebi.ac.uk/vol1/run/ERR381/ERR3813782/GRG052.bam		
